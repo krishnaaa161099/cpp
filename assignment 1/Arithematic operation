@@ -1,0 +1,12 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main() {
+    int a = 45;
+    int b = 25;
+    
+    cout<<"Addition of two no "<<a+b<<endl;
+    cout<<"substraction of two no "<<a-b<<endl;
+    cout<<"multiplication of two no "<<a*b<<endl;
+    cout<<"devision of two no "<<a/b<<endl;
+    
+}
