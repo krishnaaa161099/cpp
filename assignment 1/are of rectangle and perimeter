@@ -1,0 +1,7 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+int a = 15;
+int b = 10;
+cout<<"area of rectangle "<<a*b<<endl;
+cout<<"area of parimeter "<<2*(a+b)<<endl;}
