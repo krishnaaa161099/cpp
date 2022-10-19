@@ -1,0 +1,5 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    int a = 5;
+    cout<<"the volume of cube is :"<<a*a*a<<endl;}
