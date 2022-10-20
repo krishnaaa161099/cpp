@@ -1,0 +1,11 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    int a;
+    if(a<0)
+    {
+        cout<<"value is negative"<<endl;
+    }
+    else
+    cout<<"value is positive"<<endl;
+}
