@@ -1,0 +1,14 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    int math,physics,chemistry;
+    cin>>math>>physics>>chemistry;
+    if(math>=65 && chemistry>=55 && physics>=50 && physics+math>=140)
+    {
+    cout<<"eligiable for admission"<<endl;
+    }
+    else
+    {
+    cout<<"not eligiable for admission"<<endl;
+}
+}
