@@ -2,4 +2,10 @@
 using namespace std;
 int main(){
     int a = 5;
-    cout<<"the volume of cube is :"<<a*a*a<<endl;}
+    cout<<"type any number"<<endl;
+    cin>>a;
+    
+    {
+    cout<<a*a*a<<endl;
+    }
+}
