@@ -1,11 +1,26 @@
 #include<bits/stdc++.h>
 using namespace std;
-int main(){
-    int a;
-    if(a<0)
-    {
-        cout<<"value is negative"<<endl;
-    }
-    else
-    cout<<"value is positive"<<endl;
+
+
+int main() {
+   int a;
+   cin>>a;
+   if(a>0){
+        cout<<" negative value"<<endl;
+        
+       
+   }
+   else if(a==0){
+       cout<<" zero"<<endl;
+   }
+   else
+   cout<<"positive value"<<endl;
+   
+
+   
+   
+   
+  
+
+    return 0;
 }
